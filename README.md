@@ -36,6 +36,7 @@ This project is a computer vision-based fire detection system that uses surveill
 ## **Output**
 
 
+
 ## **Future Improvements**
 - Integrate deep learning models (e.g., YOLO) for better accuracy  
 - Improve smoke detection capabilities  
