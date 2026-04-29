@@ -34,7 +34,6 @@ This project is a computer vision-based fire detection system that uses surveill
 - Added frame persistence check before triggering alerts  
 
 ## **Output**
-<img width="1920" height="1020" alt="Screenshot 2026-04-02 075059" src="https://github.com/user-attachments/assets/fd4b6433-8dc5-4807-8e21-5d49cf0547aa" />
 
 
 ## **Future Improvements**
